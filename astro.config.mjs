@@ -16,7 +16,7 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/0xhckr/the-nix-guide",
+          href: "https://github.com/hackrdotsh/the-nix-guide",
         },
       ],
       sidebar: [
